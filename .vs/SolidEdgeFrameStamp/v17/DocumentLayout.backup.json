@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethompson\\source\\repos\\SolidEdgeFrameStamp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F82923-12DE-4289-AC8D-6498A35B0D77}|SolidEdgeFrameStamp\\SolidEdgeFrameStamp.csproj|c:\\users\\ethompson\\source\\repos\\solidedgeframestamp\\solidedgeframestamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F82923-12DE-4289-AC8D-6498A35B0D77}|SolidEdgeFrameStamp\\SolidEdgeFrameStamp.csproj|solutionrelative:solidedgeframestamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ethompson\\source\\repos\\SolidEdgeFrameStamp\\SolidEdgeFrameStamp\\Program.cs",
+              "RelativeDocumentMoniker": "SolidEdgeFrameStamp\\Program.cs",
+              "ToolTip": "C:\\Users\\ethompson\\source\\repos\\SolidEdgeFrameStamp\\SolidEdgeFrameStamp\\Program.cs",
+              "RelativeToolTip": "SolidEdgeFrameStamp\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T15:35:15.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
